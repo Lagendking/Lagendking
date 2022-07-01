@@ -1,7 +1,7 @@
 ### Hello 
 <br/>
 
-<img src="https://discordapp.com/api/guilds/[840999349504835584]/widget.png?style=banner2" alt="Discord Banner 2"/>
+
 
 <br/>
 
