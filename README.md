@@ -1,7 +1,9 @@
 #### Hello 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=Lagendking) <a href="https://discord.gg/H5AKeu3ucZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="H5AKeu3ucZ" height="30" width="40" /></a>
+![](https://komarev.com/ghpvc/?username=Lagendking)
+
+<a href="https://discord.gg/H5AKeu3ucZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="H5AKeu3ucZ" height="30" width="40" /></a>
 
 <br/>
 
