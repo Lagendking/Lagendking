@@ -1,7 +1,7 @@
 ### Hello
-#
-#
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lagendking&show_icons=true&theme=radical)
+# 
+# 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lagendking&show_icons=true&theme=dark)
 <!--
 **Lagendking/Lagendking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
