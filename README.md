@@ -1,5 +1,8 @@
-### Hello idk what to put here
+### Hello 
 <br/>
+
+<img src="https://discordapp.com/api/guilds/[840999349504835584]/widget.png?style=banner2" alt="Discord Banner 2"/>
+
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lagendking&show_icons=true&theme=dark&hide_rank=true&hide_title=true) [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lagendking&langs_count=5&theme=dark&hide_title=true&exclude_repo=thing)]()
