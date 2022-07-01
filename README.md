@@ -1,8 +1,8 @@
 ### Hello
-# 
+![GitHub Repo stars](https://img.shields.io/github/stars/ankidroid/Anki-Android?style=social)
 # 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lagendking&show_icons=true&theme=dark)
-![GitHub Repo stars](https://img.shields.io/github/stars/ankidroid/Anki-Android?style=social)
+
 <!--
 **Lagendking/Lagendking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
