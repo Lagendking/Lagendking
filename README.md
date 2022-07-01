@@ -1,7 +1,7 @@
 #### Hello 
 <br/>
 
-![](https://dcbadge.vercel.app/api/shield/535328758371188748) ![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 <br/>
 
